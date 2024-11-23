@@ -46,7 +46,7 @@
 	"navigation": [
 		{
 			"group": "Overview",
-			"pages": ["documentation/overview/introduction", "documentation/overview/get-started"]
+			"pages": ["documentation/overview/introduction", "documentation/overview/lore", "documentation/overview/get-started"]
 		},
 		{
 			"group": "Key Features",
