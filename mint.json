@@ -67,7 +67,7 @@
 		},
     {
 			"group": "More",
-			"pages": ["documentation/more/explore-ecosystem", "documentation/more/affiliation-program"]
+			"pages": ["documentation/more/affiliation-program"]
 		},
     {
 			"group": "Roadmap",
