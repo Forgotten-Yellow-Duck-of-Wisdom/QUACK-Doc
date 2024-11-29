@@ -1,6 +1,6 @@
 {
 	"$schema": "https://mintlify.com/schema.json",
-	"name": "TokenFabric.xyz | Documentation",
+	"name": "Quack-world.fun | Documentation",
 	"logo": {
 		"dark": "/logo/dark.svg",
 		"light": "/logo/light.svg"
@@ -18,7 +18,7 @@
 
 	"topbarCtaButton": {
 		"name": "dApp",
-		"url": "https://tokenfabric.xyz"
+		"url": "https://quack-world.fun/"
 	},
 	"tabs": [
     	{
@@ -27,20 +27,15 @@
 		}
 	],
 	"anchors": [
-		{
-			"name": "Contribute",
-			"icon": "book-open-cover",
-      "url": "https://zealy.io/cw/tokenfabricxyz/questboard"
-		},
     {
       "name": "dApp",
 			"icon": "book-open-cover",
-      "url": "https://tokenfabric.xyz"
+      "url": "https://quack-world.fun/"
     },
 		{
 			"name": "Community",
 			"icon": "discord",
-			"url": "https://discord.gg/yn4wdufRCs"
+			"url": "https://discord.gg/mvRxCTqZFA"
 		}
 	],
 	"navigation": [
