@@ -1,0 +1,79 @@
+// // PROD VERSION WITH ANCHOR TO DAPP AND DISCORD COMMUNITY
+// {
+// 	"$schema": "https://mintlify.com/schema.json",
+// 	"name": "Quack-world.fun | Documentation",
+// 	"logo": {
+// 		"dark": "/logo/dark.svg",
+// 		"light": "/logo/light.svg"
+// 	},
+// 	"favicon": "/favicon.svg",
+// 	"colors": {
+// 		"primary": "#40B1CF",
+// 		"light": "#81CCDF",
+// 		"dark": "#40B1CF",
+// 		"anchors": {
+// 			"from": "#40B1CF",
+// 			"to": "#81CCDF"
+// 		}
+// 	},
+
+// 	"topbarCtaButton": {
+// 		"name": "dApp",
+// 		"url": "https://quack-world.fun/"
+// 	},
+// 	"tabs": [
+//     	{
+// 			"name": "Roadmap",
+// 			"url": "roadmap"
+// 		}
+// 	],
+// 	"anchors": [
+//     {
+//       "name": "dApp",
+// 			"icon": "book-open-cover",
+//       "url": "https://quack-world.fun/"
+//     },
+// 		{
+// 			"name": "Community",
+// 			"icon": "discord",
+// 			"url": "https://discord.gg/mvRxCTqZFA"
+// 		}
+// 	],
+// 	"navigation": [
+// 		{
+// 			"group": "Overview",
+// 			"pages": ["documentation/overview/introduction", "documentation/overview/lore", "documentation/overview/get-started"]
+// 		},
+// 		{
+// 			"group": "Key Features",
+// 			"pages": [
+// 				"documentation/key-features/multiple-games",
+// 				"documentation/key-features/asset-creation",
+// 				"documentation/key-features/tokenomics",
+// 				"documentation/key-features/premium-rings"
+
+// 			]
+// 		},
+// 		{
+// 			"group": "Game Modes",
+// 			"pages": [
+// 				"documentation/game-modes/global-game",
+// 				"documentation/game-modes/quack-ball"
+// 			]
+// 		},
+//     {
+// 			"group": "More",
+// 			"pages": ["documentation/more/affiliation-program"]
+// 		},
+//     {
+// 			"group": "Roadmap",
+// 			"pages": ["roadmap/roadmap"]
+// 		}
+// 	],
+// 	"footerSocials": {
+// 		"x": "https://x.com/tokenfabric",
+// 		"github": "https://github.com/TokenFabric-xyz",
+// 		"linkedin": "https://www.linkedin.com/company/tokenfabric-xyz",
+// 		"discord": "https://discord.gg/yn4wdufRCs"
+// 	}
+// }

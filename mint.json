@@ -2,8 +2,8 @@
 	"$schema": "https://mintlify.com/schema.json",
 	"name": "Quack-world.fun | Documentation",
 	"logo": {
-		"dark": "/logo/dark.svg",
-		"light": "/logo/light.svg"
+		"dark": "/logo/dark.png",
+		"light": "/logo/dark.png"
 	},
 	"favicon": "/favicon.svg",
 	"colors": {
@@ -17,8 +17,8 @@
 	},
 
 	"topbarCtaButton": {
-		"name": "dApp",
-		"url": "https://quack-world.fun/"
+		"name": "Meet the team",
+		"url": "https://codhash.com/"
 	},
 	"tabs": [
     	{
@@ -26,38 +26,26 @@
 			"url": "roadmap"
 		}
 	],
-	"anchors": [
-    {
-      "name": "dApp",
-			"icon": "book-open-cover",
-      "url": "https://quack-world.fun/"
-    },
-		{
-			"name": "Community",
-			"icon": "discord",
-			"url": "https://discord.gg/mvRxCTqZFA"
-		}
-	],
 	"navigation": [
 		{
 			"group": "Overview",
-			"pages": ["documentation/overview/introduction", "documentation/overview/lore", "documentation/overview/get-started"]
+			"pages": ["documentation/overview/introduction", "documentation/overview/lore"]
 		},
 		{
 			"group": "Key Features",
 			"pages": [
 				"documentation/key-features/multiple-games",
 				"documentation/key-features/asset-creation",
-				"documentation/key-features/tokenomics",
-				"documentation/key-features/premium-rings"
+				"documentation/key-features/tokenomics"
 
 			]
 		},
 		{
 			"group": "Game Modes",
 			"pages": [
-				"documentation/game-modes/global-game",
-				"documentation/game-modes/quack-ball"
+				"documentation/game-modes/quack-world",
+				"documentation/game-modes/quack-ball",
+				"documentation/game-modes/quack-tower-defense"
 			]
 		},
     {
