@@ -44,8 +44,9 @@
 			"group": "Game Modes",
 			"pages": [
 				"documentation/game-modes/quack-world",
-				"documentation/game-modes/quack-ball",
-				"documentation/game-modes/quack-tower-defense"
+				"documentation/game-modes/quack-chase",
+				"documentation/game-modes/quack-tower-defense",
+				"documentation/game-modes/quack-ball"
 			]
 		},
     {
